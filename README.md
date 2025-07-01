@@ -2,9 +2,9 @@
 <img src="https://github.com/rodionov-nn/Hero/blob/main/hero-bg.webp" width="1000" height="200" alt="Hero background" />
 <h1 align='center'>About Me</h1>
 <ul>
-  <li>Web Design & Development is in my DNA.</li>
-  <li>Language lover - Russian, Spanish, Catalan, English & German.</li>
   <li>Currently a student, i'm open to hire.</li>
+  <li>Web Design & Development.</li>
+  <li>Language lover - Russian, Spanish, Catalan, English & German.</li>
 </ul>
 <h1 align='center'>Latest info</h1>
 <ul>
