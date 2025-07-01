@@ -6,3 +6,7 @@
   <li>Language lover - Russian, Spanish, Catalan, English & German.</li>
   <li>Currently a student, i'm open to hire.</li>
 </ul>
+<h1 align='center'>Latest info</h1>
+<ul>
+  <li>Currently I develop my Next.js Portfolio</li>
+</ul>
