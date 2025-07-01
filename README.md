@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Geist&weight=800&size=24&pause=1000&color=FFFFFF&center=true&width=1000&height=100&lines=Welcome+to+my+GitHub!)](https://git.io/typing-svg)
-<img src="https://github.com/rodionov-nn/Hero/blob/main/hero-bg.webp" style="max-height: 500px ,width: 1000px;">
+<img src="https://github.com/rodionov-nn/Hero/blob/main/hero-bg.webp" width="1000" height="500" alt="Hero background" />
 <h1 align='center'>About Me</h1>
 <ul>
   <li>Web Design & Development is in my DNA.</li>
