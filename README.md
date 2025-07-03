@@ -8,5 +8,5 @@
 </ul>
 <h1 align='center'>Latest info</h1>
 <ul>
-  <li>Currently I develop my Next.js [Portfolio](https://github.com/rodionov-nn/my-portfolio)</li>
+  <li>Currently I develop my Next.js <a href="https://github.com/rodionov-nn/my-portfolio">Portfolio</a></li>
 </ul>
