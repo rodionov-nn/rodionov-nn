@@ -7,6 +7,8 @@
   <li>Language lover - Russian, Spanish, Catalan, English & German.</li>
 </ul>
 <h1 align='center'>Latest info</h1>
+<h2>Currently I develop:</h2>
 <ul>
-  <li>Currently I develop my <a href="https://github.com/rodionov-nn/my-portfolio">Next.js Portfolio</a></li>
+  <li>My <a href="https://github.com/rodionov-nn/my-portfolio">Next.js Portfolio</a></li>
+  <li>Full stack e-commerce application <a href="https://github.com/rodionov-nn/next-pizza">Next Pizza</a></li>
 </ul>
