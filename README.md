@@ -4,7 +4,7 @@
 - 🌱 Learning **Next.js, TypeScript** and full-stack development  
 - 💬 Open to discussions and feedback on my projects  
 - 🎮 Love studying new things, gaming and hiking in my free time  
-- 🎧 Big fan of rock, metal & diverse music (check my Spotify!)  
+- 🎧 Big fan of rock, metal & diverse music — [check my Spotify!](https://open.spotify.com/user/315jytconnz3szvuadzauuinmd4q?si=de1d004a4ecb448b)  
 
 ---
 
