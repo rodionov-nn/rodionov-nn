@@ -44,7 +44,6 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rodionov-nn&theme=apprentice&hide_border=false&include_all_commits=true&count_private=true)  
 ![](https://nirzak-streak-stats.vercel.app/?user=rodionov-nn&theme=apprentice&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rodionov-nn&theme=apprentice&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
